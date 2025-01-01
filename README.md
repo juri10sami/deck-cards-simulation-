@@ -19,7 +19,7 @@ This repository contains a Java-based card game simulation. It showcases various
 Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse, or VS Code).
 Run the DeckCards class to start the game.
 
-Project Structure:
+##Project Structure:
 
 Cards Class:
 Represents a playing card with methods for setting and getting the suit and point value.
