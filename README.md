@@ -29,23 +29,23 @@ DeckCards Class:
 Handles deck creation, shuffling, dealing cards, and gameplay logic.
 Includes methods like deal, perfectShuffle, and selectionShuffle to manage cards.
 
-Example Gameplay:
+## Example Gameplay:
 The program creates a standard deck of 52 cards.
 Shuffles the deck and deals cards to up to 4 players and a bank.
 Players compete to achieve the highest score, with logic to draw additional cards based on specific conditions.
 Outputs the results of each round, including card suits, values, and the winner.
 
-Technologies Used:
+## Technologies Used:
 Java 8+: The programming language used for this project.
 ArrayList: For managing the card deck and discarded cards.
 Math.random: To implement random shuffling.
 
-Future Improvements:
+## Future Improvements:
 Add more game rules for additional gameplay variations.
 Implement a GUI for a more interactive user experience.
 Include unit tests for the card dealing and shuffle methods.
 
-Acknowledgments:
+## Acknowledgments:
 This project was developed as part of a foundational Java programming course to explore object-oriented concepts and algorithm implementation.
 
 
