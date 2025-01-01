@@ -15,7 +15,7 @@ This repository contains a Java-based card game simulation. It showcases various
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/juri10sami/Card-Game-Simulation.git
+   git clone https://github.com/juri10sami/Card-Game-Simulation-.git
 Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse, or VS Code).
 Run the DeckCards class to start the game.
 
